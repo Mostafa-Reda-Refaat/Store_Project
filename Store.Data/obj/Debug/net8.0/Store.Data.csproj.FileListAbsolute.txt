@@ -1,0 +1,12 @@
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Data\bin\Debug\net8.0\Store.Data.deps.json
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Data\bin\Debug\net8.0\Store.Data.dll
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Data\bin\Debug\net8.0\Store.Data.pdb
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Data\obj\Debug\net8.0\Store.Data.csproj.AssemblyReference.cache
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Data\obj\Debug\net8.0\Store.Data.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Data\obj\Debug\net8.0\Store.Data.AssemblyInfoInputs.cache
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Data\obj\Debug\net8.0\Store.Data.AssemblyInfo.cs
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Data\obj\Debug\net8.0\Store.Data.csproj.CoreCompileInputs.cache
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Data\obj\Debug\net8.0\Store.Data.dll
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Data\obj\Debug\net8.0\refint\Store.Data.dll
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Data\obj\Debug\net8.0\Store.Data.pdb
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Data\obj\Debug\net8.0\ref\Store.Data.dll

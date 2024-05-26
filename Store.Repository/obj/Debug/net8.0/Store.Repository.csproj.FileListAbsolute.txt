@@ -1,0 +1,15 @@
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Repository\bin\Debug\net8.0\Store.Repository.deps.json
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Repository\bin\Debug\net8.0\Store.Repository.dll
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Repository\bin\Debug\net8.0\Store.Repository.pdb
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Repository\bin\Debug\net8.0\Store.Data.dll
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Repository\bin\Debug\net8.0\Store.Data.pdb
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Repository\obj\Debug\net8.0\Store.Repository.csproj.AssemblyReference.cache
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Repository\obj\Debug\net8.0\Store.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Repository\obj\Debug\net8.0\Store.Repository.AssemblyInfoInputs.cache
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Repository\obj\Debug\net8.0\Store.Repository.AssemblyInfo.cs
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Repository\obj\Debug\net8.0\Store.Repository.csproj.CoreCompileInputs.cache
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Repository\obj\Debug\net8.0\Store.Repository.csproj.CopyComplete
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Repository\obj\Debug\net8.0\Store.Repository.dll
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Repository\obj\Debug\net8.0\refint\Store.Repository.dll
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Repository\obj\Debug\net8.0\Store.Repository.pdb
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Repository\obj\Debug\net8.0\ref\Store.Repository.dll

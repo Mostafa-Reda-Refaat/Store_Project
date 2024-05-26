@@ -1,0 +1,17 @@
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Service\bin\Debug\net6.0\Store.Service.deps.json
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Service\bin\Debug\net6.0\Store.Service.dll
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Service\bin\Debug\net6.0\Store.Service.pdb
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Service\bin\Debug\net6.0\Store.Data.dll
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Service\bin\Debug\net6.0\Store.Repository.dll
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Service\bin\Debug\net6.0\Store.Repository.pdb
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Service\bin\Debug\net6.0\Store.Data.pdb
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Service\obj\Debug\net6.0\Store.Service.csproj.AssemblyReference.cache
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Service\obj\Debug\net6.0\Store.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfoInputs.cache
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Service\obj\Debug\net6.0\Store.Service.AssemblyInfo.cs
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CoreCompileInputs.cache
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Service\obj\Debug\net6.0\Store.Service.csproj.CopyComplete
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Service\obj\Debug\net6.0\Store.Service.dll
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Service\obj\Debug\net6.0\refint\Store.Service.dll
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Service\obj\Debug\net6.0\Store.Service.pdb
+F:\Mostafa Reda\Route\Assignment\02 C#\07 API\Assignment 1\Demo.Store\Store.Service\obj\Debug\net6.0\ref\Store.Service.dll
